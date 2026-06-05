@@ -7,10 +7,6 @@
 
 This repository contains practical projects focused on anomaly detection, image reconstruction and representation learning using deep learning techniques.
 
-## Objectives
-
-The aim of this repository is to study how neural networks can learn normal patterns and identify abnormal observations through reconstruction-based approaches.
-
 ## Topics Covered
 
 - Autoencoders
@@ -30,3 +26,7 @@ The aim of this repository is to study how neural networks can learn normal patt
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+
+## Purpose
+
+The aim of this repository is to study how neural networks can learn normal patterns and identify abnormal observations through reconstruction-based approaches.
