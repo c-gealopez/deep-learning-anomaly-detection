@@ -3,7 +3,6 @@
 
 # Repo 2 — deep-learning-anomaly-detection
 
-```markdown
 # Deep Learning for Anomaly Detection
 
 This repository contains practical projects focused on anomaly detection, image reconstruction and representation learning using deep learning techniques.
@@ -31,10 +30,3 @@ The aim of this repository is to study how neural networks can learn normal patt
 - Pandas
 - Matplotlib
 - Jupyter Notebook
-
-## Repository Structure
-
-```text
-notebooks/
-README.md
-requirements.txt
